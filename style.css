@@ -1,0 +1,22 @@
+.btn-black {
+    background: rgb(66, 66, 66);
+    color: white;
+}
+
+img {
+    width: 30%;
+    float: left;
+    margin: 1.66%
+}
+
+#name {
+    font-family: "Amatic SC";
+    font-weight: 700;
+    font-size: 1.5em;
+}
+
+#images {
+    margin: auto;
+    width: 78%;
+    /* max-width: 1199px; */
+}
