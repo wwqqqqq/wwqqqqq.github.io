@@ -3,18 +3,6 @@
     color: white;
 }
 
-img {
-    width: 30%;
-    float: left;
-}
-
-#img-left {
-    margin-right: 5%;
-}
-
-#img-right {
-    margin-left: 5%;
-}
 
 #name {
     font-family: "Amatic SC";
@@ -22,8 +10,25 @@ img {
     font-size: 1.5em;
 }
 
-#images {
-    margin: auto;
-    width: 78%;
-    /* max-width: 1199px; */
+body {
+    padding-top: 70px;
 }
+
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+
+#brand {
+    /* font-family: "Shadows Into Light"; */
+    /* font-family: "Abril Fatface"; */
+    /* font-family: "Amatic SC"; */
+    /* font-family: "Open Sans"; */
+    font-family: "Aleo";
+    /* font-weight: 700; */
+    font-size: 1.1em;
+}
+
+.thumbnail {
+    border: 0;
+}
+
