@@ -8,7 +8,7 @@
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-    <link rel="icon" href="./favicon.ico">
+    <link rel="icon" href="./favicon-2.ico">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -17,12 +17,28 @@
     <div class="wrapper">
       <header>
         <h1 align="center"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
+        <img src="{{site.logo | relative_url}}" alt="Logo" />
+      {% endif %}
+        
+        
+        
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+        <p>
+            <i class="fa fa-briefcase"></i>&nbsp; <b>Occupation</b> <br>
+            Software Engineer @ Facebook <br>
+            SWE Intern @ Microsoft 
+        </p>
+        <p>
+            <i class="fa fa-graduation-cap"></i>&nbsp; <b>Education</b> <br>
+            M.S. in Computer Science @ UCSD <br>
+            B.E. in Computer Science and Technology @ USTC 
+        </p>
+
+        <p><i class="fa fa-envelope"></i>&nbsp; weiq618@gmail.com</p>
+        <p><i class="fa fa-map-marker fa-lg"></i>&nbsp; La Jolla, CA</p>
 
 
         <!-- {% if site.github.is_project_page %}
