@@ -17,11 +17,6 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-[![Test Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1615754337/video_to_markdown/images/youtube--57dJAOEsqvI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/57dJAOEsqvI "Test Video")
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
-
-
 ## Header 2
 
 > This is a blockquote following a header.
