@@ -3,6 +3,9 @@
     color: white;
 }
 
+.btn-black:hover {
+    color: rgb(233, 233, 233);
+}
 
 #name {
     font-family: "Amatic SC";
