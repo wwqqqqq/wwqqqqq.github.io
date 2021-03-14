@@ -5,6 +5,9 @@
 layout: default
 ---
 
+# [<span style="color:gray">Projects</span>](./index)   &nbsp;&nbsp; Resume
+---
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).

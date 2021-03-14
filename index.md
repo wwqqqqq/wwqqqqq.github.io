@@ -5,6 +5,40 @@
 layout: default
 ---
 
+# Projects   &nbsp;&nbsp; [<span style="color:gray">Resume</span>](./resume)
+---
+<!-- * This will become a table of contents (this text will be scrapped).
+{:toc} -->
+
+## VR Games
+
+### Classroom Design Tool
+
+### Building Blocks
+
+## PC Games
+
+### Among Us Lobby in 3D
+
+### Social Distancing
+
+### COVID Testing Navigation at UCSD
+
+## Animation and Physics Simulation
+
+### Character Animation
+
+### Cloths Simulation
+
+### General-Purpose Particle System
+
+## Other
+
+### MIPS Instruction Set CPU
+
+### C1 Language Compiler
+
+<!-- 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -128,4 +162,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
