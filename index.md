@@ -14,23 +14,42 @@ layout: default
 
 ### Classroom Design Tool
 
+> [Project in CSE 165 Winter 2021 @ UCSD](http://ivl.calit2.net/wiki/index.php/Project3W21)
+
 ### Building Blocks
+
+> [Project in CSE 165 Winter 2021 @ UCSD](http://ivl.calit2.net/wiki/index.php/Project4W21)
 
 ## PC Games
 
 ### Among Us Lobby in 3D
 
+> [Project in CSE 167 Fall 2020 @ UCSD](http://ivl.calit2.net/wiki/index.php/Project4F20)
+
+![Among Us Lobby in 3D](./images/among-us-lobby.png)
+
+
 ### Social Distancing
 
+> [Project in CSE 165 Winter 2021 @ UCSD](http://ivl.calit2.net/wiki/index.php/Project1W21)
+
 ### COVID Testing Navigation at UCSD
+
+> [Project in CSE 165 Winter 2021 @ UCSD](http://ivl.calit2.net/wiki/index.php/Project2W21)
 
 ## Animation and Physics Simulation
 
 ### Character Animation
 
+> Project in CSE 169 Winter 2021 @ UCSD
+
 ### Cloths Simulation
 
+> Project in CSE 169 Winter 2021 @ UCSD
+
 ### General-Purpose Particle System
+
+> Project in CSE 169 Winter 2021 @ UCSD
 
 ## Other
 
