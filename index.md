@@ -57,6 +57,11 @@ layout: default
 
 ### C1 Language Compiler
 
+
+<br>
+ <a href="#top"><i class="fa fa-angle-double-up fa-lg"></i> Back to top</a>
+
+
 <!-- 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
