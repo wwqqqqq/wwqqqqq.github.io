@@ -5,7 +5,7 @@
 layout: default
 ---
 
-# Projects   &nbsp;&nbsp; [<span style="color:gray">Resume</span>](./resume)
+# Projects   &nbsp;&nbsp; [<span style="color:gray">Résumé</span>](./resume)
 ---
 <!-- * This will become a table of contents (this text will be scrapped).
 {:toc} -->

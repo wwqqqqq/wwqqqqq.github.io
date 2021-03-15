@@ -5,10 +5,39 @@
 layout: default
 ---
 
-# [<span style="color:gray">Projects</span>](./index)   &nbsp;&nbsp; Resume
+# [<span style="color:gray">Projects</span>](./index)   &nbsp;&nbsp; Résumé
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Experience
+* **Facebook** Software Engineer
+  * Jul. 2021 - present
+* **Facebook** Software Engineer Intern
+  * Jun. 2020 - Sep. 2020
+  * Worked on a graph embedding based user suggestion project in the Instagram Growth Graph Ranking team
+* **Microsoft** Software Engineer Intern
+  * Jul. 2018 - Sep. 2018
+  * Worked on click-through-rate (CTR) prediction for Bing.com Search Ads.
+  * Optimized the neural networks model for CTR prediction by designing a quantization method based on thorough analysis and experiments.
+  * The quantization design can accelerate the online inference process by 2 times, and reduce the memory requirement by 80% without significant loss of accuracy.
+  
+## Education
+* **University of California San Diego**, La Jolla, California
+  * Sep. 2019 - Jun. 2021
+  * M.Sc. in Computer Science
+* **University of Science and Technology of China**, Hefei, China
+  * Sep. 2015 - Jun. 2019
+  * B.Eng. in Computer Science and Technology, Honors Program
+
+
+## Skills
+* **Language**: C, C++, C#, Python, Java, SQL, Shell
+* **Tools/Frameworks**: Git, OpenCV, OpenGL, Unity Engine, PyTorch, MPI, CUDA
+
+
+<br>
+ <a href="#top"><i class="fa fa-angle-double-up fa-lg"></i> Back to top</a>
+
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
@@ -126,7 +155,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
 
-<br>
- <a href="#top"><i class="fa fa-angle-double-up fa-lg"></i> Back to top</a>
