@@ -28,6 +28,12 @@ layout: default
 
 ![Among Us Lobby in 3D](./images/among-us-lobby.png)
 
+3D version of the lobby in the game Among Us. NPC (non-player characters) will be randomly generate, move around, and de-spawn after a period of time. Actions of the characters (walking, appearing and disappearing) are roughly animated.
+
+One character will be controlled by the user. User could determine its color, control its movement with keyboard keys. Footstep sounds will be played if the player's character is moving.
+
+**Keywords**: OpenGL, irrKlang \| Toon Shading, Collision Handling, Particle System Rendering
+
 
 ### Social Distancing
 

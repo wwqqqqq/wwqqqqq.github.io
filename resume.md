@@ -9,12 +9,14 @@ layout: default
 ---
 
 ## Experience
-* **Facebook** Software Engineer
+* **Facebook** <ins>Software Engineer</ins>
   * Jul. 2021 - present
-* **Facebook** Software Engineer Intern
+* **Facebook** <ins>Software Engineer Intern</ins>
   * Jun. 2020 - Sep. 2020
-  * Worked on a graph embedding based user suggestion project in the Instagram Growth Graph Ranking team
-* **Microsoft** Software Engineer Intern
+  * Worked on a graph embedding based user suggestion project in the Instagram Growth Graph Ranking team.
+  * Applied the *Node2Vec* algorithm on the Instagram user graph to generate user embeddings. The cosine distance between embedding vectors of different users were then measured for making account suggestions based on K nearest neighbors of each user.
+  * The graph embedding KNN based user suggestion approach was shown to improve the DAU (daily active users) of Instagram.
+* **Microsoft** <ins>Software Engineer Intern</ins>
   * Jul. 2018 - Sep. 2018
   * Worked on click-through-rate (CTR) prediction for Bing.com Search Ads.
   * Optimized the neural networks model for CTR prediction by designing a quantization method based on thorough analysis and experiments.
@@ -23,16 +25,19 @@ layout: default
 ## Education
 * **University of California San Diego**, La Jolla, California
   * Sep. 2019 - Jun. 2021
-  * M.Sc. in Computer Science
+  * **M.Sc. in Computer Science**
+  * GPA: 3.92/4.0
 * **University of Science and Technology of China**, Hefei, China
   * Sep. 2015 - Jun. 2019
-  * B.Eng. in Computer Science and Technology, Honors Program
+  * **B.Eng. in Computer Science and Technology**, Honors Program
+  * Overall GPA: 3.79/4.3, top 5%; Major GPA: 3.96/4.3
+
 
 
 ## Skills
-* **Language**: C, C++, C#, Python, Java, SQL, Shell
+* **Language**: Chinese (Native), English (TOEFL: 103/120, GRE: 325/340), Japanese (Beginner)
+* **Programming Language**: C, C++, C#, Python, Java, SQL, Shell
 * **Tools/Frameworks**: Git, OpenCV, OpenGL, Unity Engine, PyTorch, MPI, CUDA
-
 
 <br>
  <a href="#top"><i class="fa fa-angle-double-up fa-lg"></i> Back to top</a>
