@@ -32,7 +32,10 @@ layout: default
 
 One character will be controlled by the user. User could determine its color, control its movement with keyboard keys. Footstep sounds will be played if the player's character is moving.
 
-**Keywords**: OpenGL, irrKlang \| Toon Shading, Collision Handling, Particle System Rendering
+**Tags**: OpenGL, irrKlang \| Toon Shading, Collision Handling, Particle System Rendering
+
+ <a href="/projects/2021/03/18/among-us-lobby-3d.html">Read the post <i class="fa fa-arrow-circle-right"></i></a>
+
 
 
 ### Social Distancing
@@ -42,6 +45,8 @@ One character will be controlled by the user. User could determine its color, co
 ### COVID Testing Navigation at UCSD
 
 > [Project in CSE 165 Winter 2021 @ UCSD](http://ivl.calit2.net/wiki/index.php/Project2W21)
+
+**Keywords**: Unity \| Travel and Wayfinding
 
 ## Animation and Physics Simulation
 
