@@ -5,7 +5,7 @@
 layout: default
 ---
 
-# [<span style="color:gray">Projects</span>](./index)   &nbsp;&nbsp; Résumé
+# [<span style="color:gray">Projects</span>](./index)   &nbsp;&nbsp; Résumé &nbsp;&nbsp; [<span style="color:gray">Blogs</span>](./blogs) 
 ---
 
 ## Experience
